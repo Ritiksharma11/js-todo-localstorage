@@ -91,7 +91,7 @@ li.completed {
 
 li span {
     position: absolute;
-    right: 0.5rem;
+    right: 0rem;
     background-color: skyblue;
     font-size: 1.4rem;
     padding: 0.2rem;
